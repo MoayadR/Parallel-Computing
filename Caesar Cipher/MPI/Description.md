@@ -1,4 +1,4 @@
-En(x) = (x + n) mod 26
+# En(x) = (x + n) mod 26
 
 Any other character outside the range from A to Z (or a to z) is transferred to the output file as it is.
 

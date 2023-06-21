@@ -1,4 +1,4 @@
-Matrix Multiplication Program.
+# Matrix Multiplication Program.
 
 Matrices’ dimensions and values are taken as
 an input. Multiply the two matrices together then print the result
