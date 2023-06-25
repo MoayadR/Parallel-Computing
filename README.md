@@ -1,5 +1,7 @@
 # High-Performance-Computing
 Parallel Computing using MPI and OpenMP in C
+
+
 ![social-blog-parallel-programming-2](https://github.com/MoayadR/Parallel-Computing/assets/92552416/3a60163a-6d53-4931-bd2e-276552a272f8)
 
 ## Content:
