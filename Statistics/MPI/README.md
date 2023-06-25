@@ -1,0 +1,2 @@
+# Statistics Calculation
+This program calculates the mean, variance, and standard deviation of a given set of numbers using parallel processing. The program distributes the data among multiple processes using **MPI**, each process calculating its local sum, squared differences, and partial results. The master process then combines the partial results to compute the final mean, variance, and standard deviation.
